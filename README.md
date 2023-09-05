@@ -1,1 +1,1 @@
-# ruleta
+# Practica JS
