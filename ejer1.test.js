@@ -1,5 +1,5 @@
 //Arrange
-result = null
+result = 1
 
 //Act
 
